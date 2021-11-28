@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="cl_row_pad">16dp</dimen>
+    <dimen name="tv_name_txt_size">16sp</dimen>
+</resources>

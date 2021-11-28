@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NameListDemo</string>
+    <string name="name_list_fragment_label">Name List</string>
+</resources>
